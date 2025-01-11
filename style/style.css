@@ -1,0 +1,502 @@
+/* Nav styles */
+/* // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 300 to 800 */
+body{
+  background-color: rgba(241, 241, 243, 1);
+}
+
+.fira-sans-thin {
+    font-family: "Fira Sans", serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .fira-sans-extralight {
+    font-family: "Fira Sans", serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+  .fira-sans-light {
+    font-family: "Fira Sans", serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .fira-sans-regular {
+    font-family: "Fira Sans", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .fira-sans-medium {
+    font-family: "Fira Sans", serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .fira-sans-semibold {
+    font-family: "Fira Sans", serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .fira-sans-bold {
+    font-family: "Fira Sans", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .fira-sans-extrabold {
+    font-family: "Fira Sans", serif;
+    font-weight: 800;
+    font-style: normal;
+  }
+  
+  .fira-sans-black {
+    font-family: "Fira Sans", serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .fira-sans-thin-italic {
+    font-family: "Fira Sans", serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .fira-sans-extralight-italic {
+    font-family: "Fira Sans", serif;
+    font-weight: 200;
+    font-style: italic;
+  }
+  
+  .fira-sans-light-italic {
+    font-family: "Fira Sans", serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .fira-sans-regular-italic {
+    font-family: "Fira Sans", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .fira-sans-medium-italic {
+    font-family: "Fira Sans", serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .fira-sans-semibold-italic {
+    font-family: "Fira Sans", serif;
+    font-weight: 600;
+    font-style: italic;
+  }
+  
+  .fira-sans-bold-italic {
+    font-family: "Fira Sans", serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .fira-sans-extrabold-italic {
+    font-family: "Fira Sans", serif;
+    font-weight: 800;
+    font-style: italic;
+  }
+  
+  .fira-sans-black-italic {
+    font-family: "Fira Sans", serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+  
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+    margin-left: 160px;
+    margin-right: 160px;
+    
+    }
+.navheadertitle{
+    font-family: "Fira Sans", serif;
+    font-size: 32;
+    font-weight: bold;
+    color: rgba(14, 14, 14, 1);
+    margin-left: 250px;
+    }
+.navsignin{
+    font-family: "Fira Sans", serif;
+    font-weight: 600;
+    font-size: 18;
+    color: #006A50;
+    padding:15px 30px;
+    border: 2px solid #006400;
+    border-radius: 5px;
+    margin-right: 250px;
+}
+.firstbanner{
+    background:  #C6E4D6;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 20px;
+    padding: 40px;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    max-width: 1000px;
+    margin: auto;
+    
+}
+    
+    
+
+
+.banner-title{
+    color: rgba(14, 14, 14, 0.5);
+    font-size: 24;
+    font-family: "Fira Sans", serif;
+}
+.banner-paragraph{
+    font-size: 56;
+    font-weight: bold;
+    font-family: "Fira Sans", serif;
+}
+.pillar{
+  border: solid rgba(178, 177, 177, 0.554);
+  border-radius: 7px;
+  padding: 24px;
+}
+
+
+
+
+.pillar-container{
+    font-family: "Fira Sans", serif;
+    justify-content: space-between;
+    border-radius: 20px;
+    padding: 40px;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    max-width: 1000px;
+    margin: auto;
+    ;
+
+
+}
+
+#piller-er-id{
+    margin-left: 410px;
+    font-family: "Fira Sans", serif;
+
+}
+.visionoffuture{
+    padding-left: 400px;
+    padding-right: 400px;
+    width: 500;
+    
+}
+
+#visiontitle{
+    font-family: "Fira Sans", serif;
+    font-weight: bold;
+    font-size: 40;
+    text-align: center;
+
+}
+#visionparagraph{
+    font-family: "Fira Sans", serif;
+    font-size: 16;
+    text-align: center;
+    font-weight: 600;
+    color: rgba(14, 14, 14, 0.7);
+    
+}
+
+.future-container{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    font-family: "Fira Sans", serif;
+}
+.future{
+    padding: 32px;
+    border-radius: 5px;
+}
+
+.yunussaid{
+  border-color: rgba(93, 20, 20, 0.922);
+  border: 1280px 256px;
+  padding: 40px;
+  padding-top: 100px;
+  font-family: "Fira Sans", serif;
+}
+
+.yunnus{
+  border: 2px solid rgba(78, 77, 77, 0.4);
+  border-radius: 15px;
+  margin-left: 400px;
+  margin-right: 400px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  
+}
+table {
+  
+  background-color: #e0f2f1; /* Light green background */
+  color: #333; /* Dark text */
+  padding: 40px;
+  text-align: left;
+  font-weight: bold;
+   border-collapse: collapse;
+   
+   margin-left: 400px;
+   
+}
+
+td {
+  padding-left: 205px;
+  padding-top: 25px;
+  
+}
+
+.recentnews{
+  font-family: "Fira Sans", serif;
+  align-items: center;
+  
+  margin-left: 400px;
+  margin-right: 395px;
+}
+.RecentNewsHeading{
+  font-size: 40;
+  font-weight: bold;
+}
+
+.RecentNewsParagraph{
+  font-size: 16;
+  color: rgba(14, 14, 14, 0.7);
+  font-weight: 600;
+}
+
+
+.container {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  margin-left: 380px;
+  margin-right: 380px;
+  gap: 15px;
+}
+.container-paragraph{
+  font-family: "Fira Sans", serif;
+
+  font-size: 16px;
+  margin-bottom: 15px;
+}
+.container-header{
+  font-family: "Fira Sans", serif;
+  font-size: 32;
+  font-weight: bold;
+  color: rgba(14, 14, 14, 0.8);
+
+}
+
+.satelitebhai{
+  border-radius: 15px;
+}
+
+.donatecontainer{
+  display: flex;
+  justify-content: center;
+ gap: px;
+}
+
+.donatedtaka{
+  font-family: "Fira Sans", serif;
+  font-size: 40;
+  font-weight: bold;
+  color: rgba(14, 14, 14, 0.8);
+  border: 1px solid rgba(14, 14, 14, 0.15);
+  border-radius: 15px;
+  padding: 20px;
+  margin: 10px;
+
+}
+
+.donationtitle{
+  font-family: "Fira Sans", serif;
+  font-size: 40;
+  font-weight: bold;
+  text-align: center;
+
+}
+
+.donationsubtitle{
+  font-family: "Fira Sans", serif;
+  font-size: 40;
+  font-weight: bold;
+  text-align: center;
+  color: rgba(14, 14, 14, 0.7);
+  padding: 20px;
+  margin-left: 330px;
+  margin-right: 330px;
+}
+.lastpartdonationcontaine{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.lastpartdonationcontainerbox{
+  display: flex;
+  justify-content: center;
+  
+}
+
+
+
+
+.lastpartdonationcontainerbox input[type=number]{
+  width: 390px; /* Adjust width as needed */
+  padding: 34px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-right: 24px;
+  margin-left: 24px;
+
+}
+
+.lastpartdonationcontainerdone-button{
+  text-align: center;
+
+}
+
+.pagolbutton{
+  text-align: center;
+  padding: 15px;
+  margin-top: 20px;
+}
+
+.footer-container{
+  margin-top: 50px;
+  margin-right: 250px;
+  margin-left: 270px;
+  margin-bottom: 50px;
+  justify-content: space-between;
+  
+  border-radius: 15px;
+  background-color: rgba(198, 228, 214, 1); 
+  padding: 60px;
+  text-align: center;
+}
+
+.footer-container h2{
+  color: rgba(14, 14, 14, 1);
+  font-family: "Fira Sans", serif;
+  font-size: 40;
+  font-weight: bold;
+}
+
+.footer-container p{
+  font-size: 16;
+  font-family: "Fira Sans", serif;
+  color: rgba(14, 14, 14, 0.7);
+}
+
+.footer-i-container{
+  display: flex;
+  justify-content: center;
+  
+}
+
+.footer-i-container input[type=email]{ 
+  width: 500px; 
+  padding: 18px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  
+  margin-right: 0;
+} 
+
+
+.btn-primary {
+  background-color: #1E8449; 
+  color: #fff; 
+  padding: 16px 32px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px; 
+  font-weight: bold; 
+}
+
+
+.alzazeerafont{
+  font-family: "Fira Sans", serif;
+  font-weight: 600;
+  font-size: 16;
+  color: rgba(14, 14, 14, 0.7);
+  
+}
+
+
+
+
+  
+    /* background-color: #6495ED  */
+
+
+
+    .digital-transformation-button{
+      background-color: #6495ED; 
+  color: #fff; 
+  padding: 15px 30px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px; 
+  font-weight: bold;
+    }
+
+
+
+    .mordern-infrastructure-button{
+      background-color: #FFD700;
+      color: #fff; 
+  padding: 15px 30px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px; 
+  font-weight: bold;
+    }
+
+.donated-taka{
+  background-color: rgba(198, 228, 214, 1);
+}
+
+.subscribe-button{
+  background-color: #1E8449; 
+  color: #fff; 
+  padding: 16px 32px;
+  border: none;
+  
+  cursor: pointer;
+  font-size: 16px; 
+  font-weight: bold; 
+}
+
+
+
+
+
+ 
+
+  
+ 
